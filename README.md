@@ -15,7 +15,7 @@ A modern disposable temporary email web application.
 
 ## Demo
 
-https://YOURUSERNAME.github.io/TempMail/
+https://xsazedul.github.io/FreeTemporaryEmail/
 
 ## Technologies
 
