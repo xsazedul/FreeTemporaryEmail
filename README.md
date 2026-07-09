@@ -15,8 +15,8 @@ A modern disposable temporary email web application.
 
 ## Demo
 
-https://xsazedul.github.io/FreeTemporaryEmail/
-
+[https://xsazedul.github.io/FreeTemporaryEmail/
+](https://xsazedul.github.io/FreeTemporaryEmail/)
 ## Technologies
 
 - HTML5
